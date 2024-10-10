@@ -59,3 +59,49 @@ background: rgb(13, 19, 33);
 
 }
 
+
+.header-taitle{
+    color: rgb(13, 19, 33);
+/* font-family: Azeret Mono; */
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+/* letter-spacing: 0%; */
+text-align: center;
+}
+
+
+.pereind-div{
+/* Frame 10 */
+position: static;
+width: 850px;
+height: 240px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+border: none;
+border-radius: 16px;
+
+background: rgba(13, 19, 33, 0.02);
+
+/* Inside Auto Layout */
+/* flex: none; */
+/* order: 0;
+align-self: stretch; */
+/* flex-grow: 0; */
+margin: 32px 0px;
+padding: 29px;
+
+}
+
+.images-section{
+    /* width: 1440px;
+    height: 5245px; */
+    background: rgb(255, 255, 255);
+    margin-top: 74px;
+    margin-right: 150px;
+    margin-left: 150px;
+    padding: 80px 97px;
+}
