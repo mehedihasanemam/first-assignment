@@ -141,7 +141,173 @@ border-radius: 16px;
 background: url(Jhankar);
 }
 
+.prg-tag{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
 
-.video-div{
-    margin-left: 122px;
+
+}
+.video-iframe{
+      /* Rectangle 1 */
+position: static;
+width: 1076px;
+height: 550px;
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+/* margin: 10px 110px; */
+margin-top: 80px;
+margin-left: 82px;
+margin-right: 152px;
+padding: auto;
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+
+
+}
+
+
+.html-css-js-div{
+ /* Frame 18 */
+/* position: static; */
+/* width: 1140px;
+height: 299px; */
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+gap: 24;
+padding: 10px;
+justify-content: space-between;
+margin-top: 48px;
+margin-left: 150px;
+margin-right: 150px;
+
+/* Inside Auto Layout */
+/* flex: none; */
+/* order: 1; */
+/* align-self: stretch; */
+/* flex-grow: 0; */
+margin: 48px 0px;
+}
+
+.html-tag{
+    /* Frame 10 */
+/* position: static; */
+width: 284px;
+height: 219px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+gap: 24;
+padding: 10px;
+
+/* padding: 0px; */
+
+
+/* Inside Auto Layout */
+/* flex: none; */
+/* order: 0; */
+/* align-self: stretch; */
+/* flex-grow: 0; */
+margin: 32px 0px;
+background-color:burlywood;
+border-radius: 10px;
+}
+
+.css-tag{
+    /* Frame 10 */
+/* position: static; */
+width: 284px;
+height: 219px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+gap: 24;
+padding: 10px;
+background-color:aqua;
+border-radius: 10px;
+
+/* Inside Auto Layout */
+/* flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0; */
+margin: 32px 0px;
+}
+
+.js-tag{
+    /* Frame 10 */
+/* position: static; */
+width: 284px;
+height: 219px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+gap: 24;
+padding: 10px;
+background-color:beige;
+border-radius: 10px;
+
+/* Inside Auto Layout */
+/* flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0; */
+margin: 32px 0px;
+}
+
+.chelleeng-mark{
+    background-image: url(../B10A1-Challenge-Begins-main/assets/handshake.jpg);
+ 
+    /* width: 1044px;
+    height: 185p; */
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+
+  
+}
+
+.Support-tag{
+     /* color: azure; */
+
+     color: rgb(255, 255, 255);
+/* font-family: Azeret Mono; */
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+/* letter-spacing: 0%; */
+text-align: center;
+}
+
+.chelleeng-prg{
+   /* color: azure; */
+
+   color: rgb(255, 255, 255);
+/* font-family: Azeret Mono; */
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+/* letter-spacing: 0%; */
+text-align: center;
+}
+
+.submit-btn{
+    text-align: center;
 }
