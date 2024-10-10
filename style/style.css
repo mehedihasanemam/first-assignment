@@ -1,7 +1,7 @@
 
 
 .header-class{
-    background-image: url(../B10A1-Challenge-Begins-main/assets/Hero-bg.png);
+    background-image: url(../assets/Hero-bg.png);
     border: 26px, 221px, 45px, 221px;
    
 }
@@ -273,7 +273,7 @@ margin: 32px 0px;
 }
 
 .chelleeng-mark{
-    background-image: url(../B10A1-Challenge-Begins-main/assets/handshake.jpg);
+    background-image: url(../assets/handshake.jpg);
  
     /* width: 1044px;
     height: 185p; */
